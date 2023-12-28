@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/global_v2/static/css/main.c580c653.css",
-    "main.js": "/global_v2/static/js/main.531a6b75.js",
+    "main.css": "/global_v2/static/css/main.7a69a16b.css",
+    "main.js": "/global_v2/static/js/main.86f23bb4.js",
     "static/media/cat2.jpg": "/global_v2/static/media/cat2.35d13aba8b12642f6e83.jpg",
     "static/media/SolidWorks.jpg": "/global_v2/static/media/SolidWorks.176d245f5bbe0d47cbad.jpg",
     "static/media/blueprint2.jpg": "/global_v2/static/media/blueprint2.50c6f5071ab038e134df.jpg",
@@ -17,11 +17,11 @@
     "static/media/ok.png": "/global_v2/static/media/ok.89fe9ba5f9eb583dd050.png",
     "static/media/table.png": "/global_v2/static/media/table.bbe884023500d51cffe2.png",
     "index.html": "/global_v2/index.html",
-    "main.c580c653.css.map": "/global_v2/static/css/main.c580c653.css.map",
-    "main.531a6b75.js.map": "/global_v2/static/js/main.531a6b75.js.map"
+    "main.7a69a16b.css.map": "/global_v2/static/css/main.7a69a16b.css.map",
+    "main.86f23bb4.js.map": "/global_v2/static/js/main.86f23bb4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c580c653.css",
-    "static/js/main.531a6b75.js"
+    "static/css/main.7a69a16b.css",
+    "static/js/main.86f23bb4.js"
   ]
 }
