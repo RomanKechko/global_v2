@@ -1,5 +1,5 @@
 import React from "react";
-import s from "./portfolio.module.css";
+import s from "./partner.module.css";
 
 const Partner = () => {
   return (

@@ -1,6 +1,6 @@
 import s from "./possibilities.module.css";
 import ok from "../../../icon/ok.png";
-import PossibilitiesOverlay from "../../portfolio/partner";
+import PossibilitiesOverlay from "../../partner/partner";
 
 const PossibilitiesRight = () => {
   return (

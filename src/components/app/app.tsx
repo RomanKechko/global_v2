@@ -2,8 +2,8 @@ import { FC } from "react";
 import { Route, Routes } from "react-router-dom";
 import AppHeader from "../app-header/app-header";
 import Main from "../main/main";
-import Portfolio from "../portfolio/partner";
-import Partner from "../portfolio/partner";
+import Portfolio from "../portfolio/portfolio";
+import Partner from "../partner/partner";
 
 const App: FC = () => {
   return (
