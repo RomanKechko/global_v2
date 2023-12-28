@@ -1,0 +1,42 @@
+.possibilities_left {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 140px 0 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.possibilities_title {
+  text-align: end;
+  padding-bottom: 60px;
+}
+
+.possibilities_lists {
+  display: flex;
+  max-width: 610px;
+  margin-left: auto;
+  flex-wrap: wrap;
+  justify-content: end;
+  gap: 10px 30px;
+  padding: 0 15px 0 0;
+}
+.image {
+  width: 30px;
+}
+.list {
+  padding: 0 0 30px;
+  box-sizing: border-box;
+  width: 250px;
+  text-align: center;
+  list-style: none;
+}
+.title {
+  margin: 0;
+  padding-top: 10px;
+  font-size: 22px;
+}
+.description {
+  margin: 0;
+  padding-top: 20px;
+  font-size: 16px;
+}
