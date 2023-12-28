@@ -16,19 +16,15 @@ const AppHeader: FC = () => {
               главная
             </NavLink>
           </li>
-          <li className={s.nav_list}>
-            <NavLink to="/b" className={setNavStyle}>
-              возможности
-            </NavLink>
-          </li>
+
           <li className={s.nav_list}>
             <NavLink to="/portfolio" className={setNavStyle}>
               портфолио
             </NavLink>
           </li>
           <li className={s.nav_list}>
-            <NavLink to="/v" className={setNavStyle}>
-              оставить заявку
+            <NavLink to="/partner" className={setNavStyle}>
+              Партнерам
             </NavLink>
           </li>
         </ul>
